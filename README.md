@@ -1,5 +1,5 @@
-Hi,
-I’m Patrick (@patrickohanlondev)
+Hi, <br />
+I’m Patrick (@patrickohanlondev) <br />
 An aspiring front-end web developer based in Northern Ireland
 
 <!---
