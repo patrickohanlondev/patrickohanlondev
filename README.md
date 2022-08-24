@@ -1,5 +1,5 @@
 Hi, <br />
-I’m Patrick (@patrickohanlondev) <br />
+I’m Patrick <br />
 An aspiring front-end web developer based in Northern Ireland. <br />
 I'm continuosly learning HTML, CSS, and JavaScript. There's always more to learn.  <br />
 My background is in graphic design and illustration.  <br />
