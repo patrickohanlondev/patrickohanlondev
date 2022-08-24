@@ -2,7 +2,7 @@ Hi, <br />
 I’m Patrick (@patrickohanlondev) <br />
 An aspiring front-end web developer based in Northern Ireland. <br />
 My background is in graphic design and illustration.  <br />
-I look forward to exploring the space where design and functionality meet in web development.
+I look forward to exploring the space where design and functionality meet with front-end web development.
 
 <!---
 patrickohanlondev/patrickohanlondev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
