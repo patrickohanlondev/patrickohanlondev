@@ -1,9 +1,8 @@
 Hi, <br />
 I’m Patrick. <br />
-An aspiring front-end web developer based in Northern Ireland. <br />
-I'm continuously learning HTML, CSS, and JavaScript. There's always more to learn.  <br />
-My background is in graphic design and illustration.  <br />
-I want to explore the space where design and functionality meet within front-end web development.   <br />
+A software development student from Belfast. <br />
+I'm currently studying on the QUB MSc software development course full-time.  <br />
+My undergraduate background is in graphic design and illustration.  <br />
 URL: https://patrickohanlon.com/
 
 <!---
